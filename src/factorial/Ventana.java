@@ -49,7 +49,6 @@ public class Ventana extends JFrame implements ActionListener{
         add(texto2);
         texto3.setBounds(170, 260, 300, 200);
         texto3.setEditable(false);
-        texto3.
         add(texto3);
         
         eti.setText("Escribe un número");
